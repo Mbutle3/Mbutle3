@@ -1,4 +1,4 @@
-## About Me
+___ ## About Me ___
 
 #### Hello, my name is Michael Antonio Butler, and I am currently a rising senior at North Carolina A&T State University in Greensboro, North Carolina.
 #### I am pursuing a Bachelor of Science in Computer Science, and I am passionate about technology.
