@@ -25,7 +25,7 @@
 
 #### I am currently working on improving my skills in React and React Native. 
 #### I am excited about the possibilities that these technologies can offer and I hope to develop innovative applications that can make a positive impact on people's lives.
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)](https://github.com/mbutle3/github-profile-trophy)
 ----
 ## ___Contact___
 
@@ -38,4 +38,4 @@
 ## * [LinkedIn](https://www.linkedin.com/in/mbutle3/)
 ## * [Resume](http://mbutle3.github.io/Resume/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/mbutle3/github-readme-quotes)
