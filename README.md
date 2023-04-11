@@ -4,7 +4,7 @@
 
 #### My name is Michael Antonio Butler, and I am currently a rising senior at North Carolina A&T State University in Greensboro, North Carolina.
 #### I am pursuing a Bachelor of Science in Computer Science, and I am passionate about technology.
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/mbutle3/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 ## ___Interests___
@@ -25,7 +25,7 @@
 
 #### I am currently working on improving my skills in React and React Native. 
 #### I am excited about the possibilities that these technologies can offer and I hope to develop innovative applications that can make a positive impact on people's lives.
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)](https://github.com/mbutle3/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)](https://github.com/ryo-ma/github-profile-trophy)
 ----
 ## ___Contact___
 
