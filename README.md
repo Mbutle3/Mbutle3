@@ -2,7 +2,7 @@
 
 ## ___Quote___
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&background=FFFFFF00&width=445&lines=Energy+and+persistence+conquer+all+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FFFFFF&background=FFFFFF00&width=445&lines=Energy+and+persistence+conquer+all+things)](https://git.io/typing-svg)
 
 ## ___About Me___
 
