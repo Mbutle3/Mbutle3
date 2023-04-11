@@ -30,6 +30,8 @@
 #### I am always open to new opportunities and collaboration!
 
 ----
-## * [LinkedIn](https://www.linkedin.com/in/mbutle3/)
 ## * School Email: Mabutler@aggies.ncat.edu
 ## * Personal Email: Mbutle3@gmail.com
+## * [LinkedIn](https://www.linkedin.com/in/mbutle3/)
+## * [Resume](http://mbutle3.github.io/Resume/)
+
