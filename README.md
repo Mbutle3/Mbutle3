@@ -38,5 +38,4 @@
 ## * [LinkedIn](https://www.linkedin.com/in/mbutle3/)
 ## * [Resume](http://mbutle3.github.io/Resume/)
 
-----
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
