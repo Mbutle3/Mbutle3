@@ -43,3 +43,4 @@
 
 ----
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/mbutle3/github-readme-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
