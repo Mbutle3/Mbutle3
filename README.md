@@ -31,5 +31,5 @@
 
 ----
 ## * [LinkedIn](https://www.linkedin.com/in/mbutle3/)
-## * [School Email](Mabutler@aggies.ncat.edu)
-## * [Personal Email](Mbutle3@gmail.com)
+## * School Email: Mabutler@aggies.ncat.edu
+## * Personal Email: Mbutle3@gmail.com
