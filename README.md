@@ -1,5 +1,8 @@
 ![banner](banner.png)
 
+## ___Quote___
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Do not fear failure;But fear not trying)](https://git.io/typing-svg)
+
 
 ## ___About Me___
 
