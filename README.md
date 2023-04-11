@@ -1,7 +1,6 @@
 ![banner](banner.png)
 
 ## ___Quote___
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## ___About Me___
 
@@ -42,3 +41,4 @@
 
 ----
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/mbutle3/github-readme-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
