@@ -1,8 +1,7 @@
 ![banner](banner.png)
 
 ## ___Quote___
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=FFFFFF&background=FFFFFF00&width=445&lines=Energy+and+persistence+conquer+all+things)](https://git.io/typing-svg)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## ___About Me___
 
@@ -43,4 +42,3 @@
 
 ----
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/mbutle3/github-readme-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
