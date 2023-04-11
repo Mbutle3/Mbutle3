@@ -1,7 +1,5 @@
 ![banner](banner.png)
 
-## ___Quote___
-
 ## ___About Me___
 
 #### My name is Michael Antonio Butler, and I am currently a rising senior at North Carolina A&T State University in Greensboro, North Carolina.
@@ -41,4 +39,4 @@
 
 ----
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/mbutle3/github-readme-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
