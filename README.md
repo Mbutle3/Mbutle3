@@ -8,8 +8,6 @@ Software Engineer | Azure Certified | Cloud & Distributed Systems Enthusiast
 
 ## About Me
 
-I am a Software Engineer in a Technology Development Program at Wells Fargo based in Charlotte, NC.
-
 I specialize in full-stack development with a strong focus on C#, .NET, Azure cloud services, and scalable system design. I am passionate about building resilient, distributed systems and continuously improving my engineering craft.
 
 Currently:
