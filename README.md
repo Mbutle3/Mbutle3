@@ -1,42 +1,80 @@
 ![banner](banner.png)
 
-## ___About Me___
+# Michael Antonio Butler
 
-#### My name is Michael Antonio Butler, and I am currently a rising senior at North Carolina A&T State University in Greensboro, North Carolina.
-#### I am pursuing a Bachelor of Science in Computer Science, and I am passionate about technology.
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)](https://github.com/anuraghazra/github-readme-stats)
+Software Engineer | Azure Certified | Cloud & Distributed Systems Enthusiast
 
-----
-## ___Interests___
+---
 
-#### I am a curious learner who is always seeking opportunities to expand my knowledge and skills across different technologies and domains. 
-#### I enjoy exploring new tech and leveraging it to solve real-life problems. 
-#### Currently, I am interested in learning more about Front-End Web Development and Mobile App Development
+## About Me
 
-----
-## ___Involvement___
+I am a Software Engineer in a Technology Development Program at Wells Fargo based in Charlotte, NC.
 
-#### In addition to my studies, I am actively involved in my university's Association of Computing Machinery (ACM) chapter.
-#### As a Vice President of the ACM, I enjoy mentoring and guiding others who share my passion for computer science. 
-#### I believe that it is important to give back to the community and help others succeed.
+I specialize in full-stack development with a strong focus on C#, .NET, Azure cloud services, and scalable system design. I am passionate about building resilient, distributed systems and continuously improving my engineering craft.
 
-----
-## ___Projects___
+Currently:
+- Azure Certified (AZ-900)
+- Preparing for AZ-204 (Azure Developer Associate)
+- Deepening expertise in cloud-native architecture, messaging systems, and event-driven design
+- Practicing data structures & algorithms daily for top-tier engineering roles
 
-#### I am currently working on improving my skills in React and React Native. 
-#### I am excited about the possibilities that these technologies can offer and I hope to develop innovative applications that can make a positive impact on people's lives.
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)](https://github.com/ryo-ma/github-profile-trophy)
-----
-## ___Contact___
+---
 
-#### If you would like to connect with me, feel free to reach out via LinkedIn or Email.
-#### I am always open to new opportunities and collaboration!
+## Technical Interests
 
-----
-## * School Email: Mabutler@aggies.ncat.edu
-## * Personal Email: Mbutle3@gmail.com
-## * [LinkedIn](https://www.linkedin.com/in/mbutle3/)
-## * [Resume](http://mbutle3.github.io/Resume/)
-## * [LinkTree](https://linktr.ee/mbutle3)
+- Cloud Architecture (Azure)
+- Distributed Systems & Messaging (Service Bus, Event Grid, Event Hubs)
+- API Design & Backend Engineering
+- Event-Driven Systems
+- DevOps & CI/CD
+- Financial Systems Engineering
+- High-Performance and Scalable Applications
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+---
+
+## Current Focus
+
+- Designing and deploying cloud applications in Azure
+- Strengthening system design skills
+- Mastering DSA patterns for technical interviews
+- Exploring Kafka-style pub/sub and real-time processing systems
+- Building projects that combine finance + cloud engineering
+
+---
+
+## Projects
+
+Here you will find projects focused on:
+
+- Cloud-native applications
+- Backend APIs
+- Messaging systems
+- Full-stack applications (React / .NET)
+- Personal finance tooling
+- Experimental distributed system prototypes
+
+More coming soon as I document and open-source ongoing work.
+
+---
+
+## Leadership & Growth
+
+- Technology Development Program participant
+- Mentoring junior engineers
+- Continuous certification and upskilling roadmap
+- Long-term focus on advanced graduate studies in Computer Science
+
+---
+
+## Connect With Me
+
+I am always open to collaborating on meaningful technical projects or discussing engineering, cloud architecture, and career growth.
+
+School Email: Mabutler@aggies.ncat.edu  
+Personal Email: Mbutle3@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mbutle3/
+
+---
+
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)
+![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)
