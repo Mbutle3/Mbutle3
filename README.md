@@ -75,6 +75,3 @@ Personal Email: Mbutle3@gmail.com
 LinkedIn: https://www.linkedin.com/in/mbutle3/
 
 ---
-
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbutle3)
-![trophy](https://github-profile-trophy.vercel.app/?username=mbutle3)
