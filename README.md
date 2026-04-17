@@ -26,8 +26,7 @@ Building resilient, cloud-native backends with a focus on C#, .NET, and Azure. I
 Full-stack engineer specializing in C#/.NET backends and Azure cloud services. Currently deepening my expertise in event-driven architectures, messaging systems, and scalable distributed design.
 
 - Azure Fundamentals certified (AZ-900)
-- Preparing for AZ-204 — Azure Developer Associate
-- Daily DSA practice to sharpen problem-solving for senior engineering roles
+- Daily DSA practice to sharpen problem-solving
 
 ---
 
