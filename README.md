@@ -2,56 +2,54 @@
 
 # Michael Antonio Butler
 
-Software Engineer | Azure Certified | Cloud & Distributed Systems Enthusiast
+**Software Engineer · Azure Certified · Cloud & Distributed Systems**
+
+Building resilient, cloud-native backends with a focus on C#, .NET, and Azure. I care about thoughtful system design, clean APIs, and code that holds up under load.
+
+---
+
+## Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## About Me
 
-I specialize in full-stack development with a strong focus on C#, .NET, Azure cloud services, and scalable system design. I am passionate about building resilient, distributed systems and continuously improving my engineering craft.
+Full-stack engineer specializing in C#/.NET backends and Azure cloud services. Currently deepening my expertise in event-driven architectures, messaging systems, and scalable distributed design.
 
-Currently:
-- Azure Certified (AZ-900)
-- Preparing for AZ-204 (Azure Developer Associate)
-- Deepening expertise in cloud-native architecture, messaging systems, and event-driven design
-- Practicing data structures & algorithms daily for top-tier engineering roles
+- Azure Fundamentals certified (AZ-900)
+- Daily DSA practice to sharpen problem-solving
 
 ---
 
-## Technical Interests
+## Focus Areas
 
-- Cloud Architecture (Azure)
-- Distributed Systems & Messaging (Service Bus, Event Grid, Event Hubs)
-- API Design & Backend Engineering
-- Event-Driven Systems
-- DevOps & CI/CD
-- Financial Systems Engineering
-- High-Performance and Scalable Applications
-
----
-
-## Current Focus
-
-- Designing and deploying cloud applications in Azure
-- Strengthening system design skills
-- Mastering DSA patterns for technical interviews
-- Exploring Kafka-style pub/sub and real-time processing systems
-- Building projects that combine finance + cloud engineering
+- **Cloud & Infrastructure** — Azure services, cloud-native architecture, DevOps, CI/CD
+- **Distributed Systems** — Service Bus, Event Grid, Event Hubs, Kafka-style pub/sub
+- **Backend Engineering** — API design, high-throughput services, system design
+- **Applied Domains** — financial systems and real-time data processing
 
 ---
 
 ## Projects
 
-Here you will find projects focused on:
+Pinned repositories below highlight my ongoing work across:
 
-- Cloud-native applications
-- Backend APIs
-- Messaging systems
-- Full-stack applications (React / .NET)
+- Cloud-native applications on Azure
+- Backend APIs and messaging systems
+- Full-stack React + .NET applications
 - Personal finance tooling
-- Experimental distributed system prototypes
+- Experimental distributed-system prototypes
 
-More coming soon as I document and open-source ongoing work.
+More are being documented and open-sourced as they mature.
 
 ---
 
@@ -59,17 +57,15 @@ More coming soon as I document and open-source ongoing work.
 
 - Technology Development Program participant
 - Mentoring junior engineers
-- Continuous certification and upskilling roadmap
-- Long-term focus on advanced graduate studies in Computer Science
+- Pursuing an ongoing certification roadmap
+- Long-term goal: advanced graduate studies in Computer Science
 
 ---
 
-## Connect With Me
+## Connect
 
-I am always open to collaborating on meaningful technical projects or discussing engineering, cloud architecture, and career growth.
+Always open to collaborating on meaningful technical projects or trading notes on cloud architecture and engineering careers.
 
-School Email: Mabutler@aggies.ncat.edu  
-Personal Email: Mbutle3@gmail.com  
-LinkedIn: https://www.linkedin.com/in/mbutle3/
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbutle3/)
+[![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mbutle3@gmail.com)
+[![School Email](https://img.shields.io/badge/Aggies%20Email-004684?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Mabutler@aggies.ncat.edu)
