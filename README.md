@@ -66,6 +66,7 @@ More are being documented and open-sourced as they mature.
 
 Always open to collaborating on meaningful technical projects or trading notes on cloud architecture and engineering careers.
 
+[![Resume](https://img.shields.io/badge/Resume-2F855A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mbutle3.github.io/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbutle3/)
 [![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mbutle3@gmail.com)
 [![School Email](https://img.shields.io/badge/Aggies%20Email-004684?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Mabutler@aggies.ncat.edu)
